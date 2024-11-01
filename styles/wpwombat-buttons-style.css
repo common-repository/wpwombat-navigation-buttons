@@ -1,0 +1,24 @@
+.wpwombat-nav-product-link-prev, .wpwombat-nav-product-link-next, .wpwombat-nav-post-link-prev, .wpwombat-nav-post-link-next
+{
+	min-width:40px;
+	min-height:40px;
+	display:inline-block;
+	text-align:center!important;
+	font-size:14px;
+	font-weight:800;
+    margin-right:8px;
+	padding:10px;
+	width:auto;
+	height:auto;
+}
+
+.wpwombat-nav-product-link-prev:hover, .wpwombat-nav-product-link-next:hover, .wpwombat-nav-post-link-prev:hover, .wpwombat-nav-post-link-next:hover
+{
+	transition: 0.2s;
+}
+
+.wpwombat-product-nav-buttons
+{
+	margin-top:10px;
+	margin-bottom:10px;
+}
